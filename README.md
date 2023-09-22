@@ -1,4 +1,4 @@
-### Hi there , I'me Ibrahim ELhilewy ❤️ 👋
+### Hi there 👋, I'me Ibrahim EL-Hilewy <3 👋
 #### Software Developer
 
 - 🌱 I’m currently learning FLUTTER Development 
@@ -15,11 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ielhilewy)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ielhilewy&show_icons=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ielhilewy)  
-
-![GitHub metrics](https://metrics.lecoq.io/Ielhilewy)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Ielhilewy)  
 
